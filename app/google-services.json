@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "917920856189",
+    "firebase_url": "https://recylerview-577d1.firebaseio.com",
+    "project_id": "recylerview-577d1",
+    "storage_bucket": "recylerview-577d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917920856189:android:2c0f6ac5213a7777",
+        "android_client_info": {
+          "package_name": "com.mytrendin.firebaserecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917920856189-lvi3v0n017unv44dikd4aqerkhpki0uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB92G5TrBEL_twZ5gKueA3PUyNrrr9RpS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
